@@ -1,0 +1,11 @@
+results
+results/*
+construct_hdf5
+construct_hdf5/*
+**/__pycache__
+**/__pycache__/*
+*.json
+oct-choroid-seg/training.pyc
+*.hdf5
+*.pyc
+.DS_Store
