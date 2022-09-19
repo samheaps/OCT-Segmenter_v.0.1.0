@@ -1,11 +1,13 @@
 # OCT-Segmenter v.0.1.0
 This code was adapted and customized for the purpose of automatic segmentation of porcine retinal layers in OCT-b scans. 
 
+- *Note:* `OCT-Segmenter` *tool v.0.5.0 is now published in the NIH-NEI organization for academic use.*
+
 If the code and methods here are useful to you and aided in your research, please consider citing the paper.
 
-"Automatic choroidal segmentation in OCT images using supervised deep learning methods"
+*"Automatic choroidal segmentation in OCT images using supervised deep learning methods"*
 
-Link: https://www.nature.com/articles/s41598-019-49816-4
+- Link: https://www.nature.com/articles/s41598-019-49816-4
 
 # Dependencies
 - Python 3.6.4
